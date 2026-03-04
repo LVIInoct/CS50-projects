@@ -1,4 +1,4 @@
-# recursion-test
+# Small Projects
 Recursion test added.
 03/03/2026
 Phonebook added.
