@@ -1,5 +1,1 @@
-# Small Projects
-Recursion test added.
-03/03/2026
-Phonebook added.
-04/03/2026
+These are folders for codes directed by CS50, with my own comments and adjusts.
